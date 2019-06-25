@@ -4,6 +4,9 @@ download.microsoft.com
 wustat.windows.com
 ntservicepack.microsoft.com
 stats.microsoft.com
+data-vef.xboxlive.com
+geover-prod.do.dsp.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
 (^|\.)download\.windowsupdate\.com$
 (^|\.)windowsupdate\.microsoft\.com$
 (^|\.)update\.microsoft\.com$
