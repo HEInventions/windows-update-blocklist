@@ -8,3 +8,5 @@ download.microsoft.com
 wustat.windows.com
 ntservicepack.microsoft.com
 stats.microsoft.com
+*.mp.microsoft.com
+*.xboxlive.com
